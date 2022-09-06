@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $TRUEKNOWLEDE"$((128,127))"
+echo 128,127
