@@ -1,2 +1,2 @@
 #!/bin/bash
-tr [A:C] [c:e]
+tr [A:C] [Z:e]
