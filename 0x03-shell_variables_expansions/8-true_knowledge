@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $TRUEKNOWLEDE=$'((100+28))'
+echo $(((TRUEKNOWLEDE)+100+28))
